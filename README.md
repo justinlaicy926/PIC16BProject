@@ -1,10 +1,5 @@
-Tic-Tac-Toe!
+This project started from trying to utilize Rcurrent Neural Networks to build a model that predict SP500 movements using technical analysis doctrines. In other words, we are trying to predict price trends using price and volume data, without consideration of fundamental analysis, such as financials or businese prospects.
 
-x . . 
-. O x
-. . O
+With some cursory research, we found many established RNN and LSTM models, on forums such as Medium and journals, too, that are claimed to have excellent accuracy. Here are two. https://www.sciencedirect.com/science/article/pii/S1877050920304865 and https://medium.com/swlh/a-technical-guide-on-rnn-lstm-gru-for-stock-price-prediction-bce2f7f30346.
 
-
-. . .
-. . .
-. . .
+From a trading perspective, models such widely-known and with such astonishing performance should not exist. As a result, we decided to investigate the effectiveness of these articles. In this project, we will build three different models to demonstrate the merits of this popular approach.
